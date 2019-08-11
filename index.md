@@ -1,5 +1,5 @@
 ---
-title: "Hey there!"
+title: "Welcome"
 image: 
   path: /docs/Banner.jpg
   thumbnail: /docs/Banner.jpg
@@ -14,10 +14,14 @@ last_modified_at: 2018-01-31T14:28:50-05:00
 ---
 
 ![image-left]({{ '/docs/Headshot - Edited.jpg' | absolute_url }}){: .align-left} My name is Clark Pain, and I am currently a Captain in the US Air Force, serving as an Intelligence Officer in beautiful Denver, Colorado. 
+#space
+#space
+#space
+
 
 ---
 
-## Clark: Professional, Outdoor Enthusiast, Enjoyer of Life
+## Professional, Outdoor Enthusiast, Enjoyer of Life
 
 One of my favorite things to do is to solve problems of all shapes and sizes. I spend most of my time at work discovering more effective ways of communicateing information, anticipating future needs of the AF/Intelligence enterprise, and deploying new methods/tools designed to make our products more relevant to our customers. What really gets me excited, though, is when I get to be involved with a project in a real hands-on way. Finding those hard problems that don't have straight-forward solutions requires real creativity and ingenuity, which is where I think I excel. 
 
