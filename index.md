@@ -13,7 +13,7 @@ tags:
 last_modified_at: 2018-01-31T14:28:50-05:00
 ---
 
-![image-left]({{ '/docs/Headshot-Edited.jpg' | absolute_url }}){: .align-left} Text text text text text 
+![image-left]({{ '/docs/Headshot - Edited.jpg' | absolute_url }}){: .align-left} Text text text text text 
 Text text text text text 
 Text text text text text 
 Text text text text text 
