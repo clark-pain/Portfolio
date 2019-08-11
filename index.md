@@ -1,5 +1,5 @@
 ---
-title: "Layout: Hero Image"
+title: "Hi, I'm Clark"
 image: 
   path: /docs/Banner.jpg
   thumbnail: /docs/Banner.jpg
