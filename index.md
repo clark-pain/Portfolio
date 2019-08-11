@@ -3,7 +3,7 @@ title: "Hi, I'm Clark"
 image: 
   path: /docs/Banner.jpg
   thumbnail: /docs/Banner.jpg
-  caption: "Photo from [WeGraphics]"
+  caption: "Photo from [Wallpapers]"
 categories:
   - Layout
 tags:
