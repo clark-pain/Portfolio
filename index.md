@@ -19,7 +19,6 @@ last_modified_at: 2018-01-31T14:28:50-05:00
 <br/>
 <br/>
 <br/>
-<br/>
 
 ---
 
@@ -31,16 +30,18 @@ I believe that for every complex problem, there exists an elegant solution that 
 
 ---
 
-### Bio
+## Bio
 I called San Diego, CA home for the first 18 years of my life, and that has invariably had a lasting effect on me. I love everything outdoor-related, having spent many of my formative years on the ocean, in the mountains, and on the ski slopes (However, I was spoiled just a tad, as anyone who knows me knows that I will usually make some comment about the weather any time it is more than 5 degrees above or below 75F). Fast-forward to 2019 and I still spend the vast majority of my free time outdoors running, hiking, or on my bike. Work-life balance is very important to me, as I believe that much of life's enjoyment comes from exploring new places, meeting new people, and seeking-out new experiences. 
 
-#### Passions
+---
+
+### Passions
 I am passionate about our future, and by our, I mean the future of us as a people. The world is changing at a dizzying rate, and we need to innovate and develop at an equal or greater rate if we want to stay ahead of the curve. We need to create invest in technologies that allow us to better utilize our limited resources, be they human, natural, or strategic.  
 
 ---
   
 
-### Areas of Expertise
+## Areas of Expertise
 - Air Force Intelligence Systems
   - I spent 3 years (2016-2019) providing real-time intelligence to satellite operators in support of a National Defense mission at the [460th Space Wing, Buckley AFB, CO.](https://www.buckley.af.mil/Units/460th-Space-Wing/)
   - Currently, I am an Operations Officer for the [National Security Agency (NSA)- Colorado](https://www.nsa.gov/about/cryptologic-centers/colorado/) supporting space-focused intelligence collection
@@ -50,6 +51,7 @@ I am passionate about our future, and by our, I mean the future of us as a peopl
   - [Principles of Finance Professional Certificate, Harvard Extension School](https://www.extension.harvard.edu/academics/professional-graduate-certificates/principles-finance-certificate) (2019)
   - Recently embarked upon first real estate investment journey. 
 
+---
 
 ### Life Goals
 
