@@ -14,10 +14,8 @@ last_modified_at: 2018-01-31T14:28:50-05:00
 ---
 
 ![image-left]({{ '/docs/Headshot - Edited.jpg' | absolute_url }}){: .align-left} My name is Clark Pain, and I am currently a Captain in the US Air Force, serving as an Intelligence Officer in beautiful Denver, Colorado. 
-#space
-#space
-#space
-
+&nbsp
+&nbsp
 
 ---
 
@@ -40,10 +38,13 @@ I called San Diego, CA home for the first 18 years of my life, and that has inva
   - I spent 3 years (2016-2019) providing real-time intelligence to satellite operators in support of a National Defense mission at the [460th Space Wing, Buckley AFB, CO.](https://www.buckley.af.mil/Units/460th-Space-Wing/)
   - Currently, I am an Operations Officer for the [National Security Agency (NSA)- Colorado](https://www.nsa.gov/about/cryptologic-centers/colorado/) supporting space-focused intelligence collection
 
+- Financial Management
+  - Personal investment portfolio management >6 years
+  - [Principles of Finance Professional Certificate, Harvard Extension School](https://www.extension.harvard.edu/academics/professional-graduate-certificates/principles-finance-certificate) (2019)
+  - Recently embarked upon first real estate investment journey. 
 
 
-
-### Interests
+### Life Goals
 
   - Process improvement
   - Outdoors 
