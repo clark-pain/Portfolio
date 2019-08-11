@@ -71,10 +71,7 @@ I am passionate about our future, and by our, I mean the future of us as a peopl
   - Create a tool or capability that positively impacts our global energy situation
   - Give people around the world greater access to information
 
-### What I Can Do For You
-
-  - Taclke tough problems head-first 
-  - 
+---
 
 #### Contact Me 
 Email <clark.pain@gmail.com>
