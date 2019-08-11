@@ -3,7 +3,7 @@ title: "Hi, I'm Clark"
 image: 
   path: /docs/Banner.jpg
   thumbnail: /docs/Banner.jpg
-  caption: "Photo from [WallpapersCraft] <https://wallpaperscraft.com/wallpaper/trail_trees_grass_90962>"
+  caption: "Photo from [WallpapersCraft] (https://wallpaperscraft.com/wallpaper/trail_trees_grass_90962)"
 categories:
   - Layout
 tags:
@@ -12,7 +12,7 @@ tags:
   - layout
 last_modified_at: 2018-01-31T14:28:50-05:00
 ---
-![left-aligned-image](Headshot - Edited.jpg){: .align-left}
+<img src="Headshot-Edited.jpg" class="align-left" alt="">
 
 Text text text text text 
 Text text text text text 
