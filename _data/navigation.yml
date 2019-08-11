@@ -1,8 +1,8 @@
-- title: Posts
+- title: About
   url: /posts/
-- title: Categories
+- title: Experience
   url: /categories/
-- title: External Page
+- title: Interests
   url: https://whatever-site.com/page.html
-- title: Search
+- title: Contact
   url: /search/
