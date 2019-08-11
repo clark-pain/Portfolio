@@ -49,7 +49,6 @@
   {% include head-custom.html %}
 </head>
 
----
 title: "Hi, I'm Clark"
 image: 
   path: /docs/Banner.jpg
