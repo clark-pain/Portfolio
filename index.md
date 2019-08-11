@@ -1,3 +1,16 @@
+# Site navigation links
+
+- title: Posts
+  url: /posts/
+- title: Categories
+  url: /categories/
+- title: Tags
+  url: /tags/
+- title: Recipes
+  url: /recipes/
+- title: Search
+  url: /search/
+
 ---
 title: "Hi, I'm Clark"
 image: 
