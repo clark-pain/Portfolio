@@ -16,6 +16,10 @@ last_modified_at: 2018-01-31T14:28:50-05:00
 ![image-left]({{ '/docs/Headshot - Edited.jpg' | absolute_url }}){: .align-left} My name is Clark Pain, and I am currently a Captain in the US Air Force, serving as an Intelligence Officer in beautiful Denver, Colorado. 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ---
 
@@ -49,14 +53,21 @@ I am passionate about our future, and by our, I mean the future of us as a peopl
 
 ### Life Goals
 
-  - 
-  Summit the highest peak in the continental United States - Check
-  - Summit the highest peak in 
-  - Outdoors 
-  - Athletics
-  - Conservation
-  - Entrepreneurism 
-  - Working for posterity 
+#### Personal
+  - Earn my Private Pilot's License (PPL)
+  - Earn my SCUBA Certification
+  - Summit the highest peak in the continental United States - Check
+  - Earn my Skydiving A-License - Check
+  - Complete a major Thru-hike/ride
+  - Complete a Triathlon - Check
+  - Complete an Iron Man 
+  - Live overseas for at least one year
+  - Circumnavigate the globe
+
+#### Professional
+  - Self-employment for a portion of my professional career
+  - Create a tool or capability that positively impacts our global energy situation
+  - Give people around the world greater access to information
 
 ### What I Can Do For You
 
