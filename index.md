@@ -1,6 +1,8 @@
-## Clark Pain's Online Portfolio
+## Clark: Professional, Sun lover, Jokester
 
-Welcome to my portfolio. Included is information regarding my professional experience, skills, and personal interests. 
+Welcome to my portfolio. Included is information regarding my professional experience, skills, and personal interests.
+
+I believe that every complex problem has an elegant and efficient solution. I am not one to cut corners or sacrifice quality for the sake of convenience. 
 
 ### Bio
 Hometown, hobbies, how i got to where i am now
