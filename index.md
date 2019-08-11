@@ -34,7 +34,7 @@ Email <clark.pain@gmail.com>
 ---
 title: "Layout: Hero Image"
 image: 
-  path: /docs/so-simple-sample-image-3.jpg
+  path: /docs/so-simple-sample-image-3-400x200.jpg
   
 categories:
   - Layout
