@@ -13,7 +13,7 @@ tags:
 last_modified_at: 2018-01-31T14:28:50-05:00
 ---
 
-![image-left]({{ '/docs/Headshot - Edited.jpg' | absolute_url }}){: .align-left} My name is Clark Pain, and I am currently a Captain in the US Air Force, serving as an Intelligence Officer in beautiful Denver, Colorado.  
+![image-left]({{ '/docs/Headshot - Edited.jpg' | absolute_url }}){: .align-left} My name is Clark Pain, and I am currently a Captain in the US Air Force, serving as an Intelligence Officer in beautiful Denver, Colorado.                                                                                                                             
 
 ## Clark: Professional, Outdoor Enthusiast, Enjoyer of Life
 
@@ -22,7 +22,9 @@ One of my favorite things to do is to solve problems of all shapes and sizes. I 
 I believe that for every complex problem, there exists an elegant solution that best meets all requirements. I am not one to compromise on outcome for convenience's sake, and I am constantly working to create the best product possible. 
 
 ### Bio
-I called San Diego, CA home for the first 18 years of my life, and that has invariably had a lasting effect on me. 
+I called San Diego, CA home for the first 18 years of my life, and that has invariably had a lasting effect on me. I love everything outdoor-related, having spent many of my formative years on the ocean, in the mountains, and on the ski slopes (However, I was spoiled just a tad, as anyone who knows me knows that I will usually make some comment about the weather any time it is more than 5 degrees above or below 75F). Fast-forward to 2019 and I still spend the vast majority of my free time outdoors running, hiking, or on my bike. Work-life balance is very important to me, as I believe that much of life's enjoyment comes from exploring new places, meeting new people, and seeking-out new experiences. 
+
+  
 
 ### What am I doing
 Air Force intelligence officer, space systems experience 
