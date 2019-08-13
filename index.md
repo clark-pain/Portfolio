@@ -71,7 +71,6 @@ I am passionate about our future, and by our, I mean the future of us as a peopl
   - Complete a Triathlon - Check
   - Complete an Iron Man 
   - Live overseas for at least one year
-  - Circumnavigate the globe
 
 #### Professional
   - Self-employment for a portion of my professional career
