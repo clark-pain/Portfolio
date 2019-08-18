@@ -63,6 +63,6 @@ I am passionate about our future. The world is changing at a dizzying rate, whic
 <br/>
 
 #### Contact Me 
-Email <clark.pain@gmail.com>
+Email: clark.pain@gmail.com
 
 ---
