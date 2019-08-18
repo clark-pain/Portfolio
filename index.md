@@ -42,7 +42,7 @@ I called San Diego, CA home for the first 18 years of my life, and that has inva
 <br/>
 
 ### Passions
-I am passionate about our future, and by our, I mean the future of us as a people. The world is changing at a dizzying rate, and we need to innovate and develop at an equal or greater rate if we want to stay ahead of the curve. We need to create invest in technologies that allow us to better utilize our limited resources, be they human, natural, or strategic.  
+I am passionate about our future. The world is changing at a dizzying rate, which means we need to innovate create solutions faster than ever before if we want to stay ahead of the curve. We need to create invest in technologies that allow us to better utilize our limited resources, be they human, natural, or strategic.  
 
 ---
   
@@ -56,28 +56,11 @@ I am passionate about our future, and by our, I mean the future of us as a peopl
 - Financial Management
   - Personal investment portfolio management >6 years
   - [Principles of Finance Professional Certificate, Harvard Extension School](https://www.extension.harvard.edu/academics/professional-graduate-certificates/principles-finance-certificate) (2019)
-  - Recently embarked upon first real estate investment journey. 
+  - Recently embarked upon my first real estate investment journey. 
 
 ---
 
-### Life Goals
-
-#### Personal
-  - Earn my Private Pilot's License (PPL)
-  - Earn my SCUBA Certification
-  - Summit the highest peak in the continental United States - Check
-  - Earn my Skydiving A-License - Check
-  - Complete a major Thru-hike/ride
-  - Complete a Triathlon - Check
-  - Complete an Iron Man 
-  - Live overseas for at least one year
-
-#### Professional
-  - Self-employment for a portion of my professional career
-  - Create a tool or capability that positively impacts our global energy situation
-  - Give people around the world greater access to information
-
----
+<br/>
 
 #### Contact Me 
 Email <clark.pain@gmail.com>
